@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+div {
+    width: 100%;
+    max-width: 1000px;
+}
